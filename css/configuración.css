@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family:'Quicksand', sans-serif;
+    font-size: 10px;
+}
+
+/*agregar colores*/
+:root {
+--color1: rgba(255,113,117,1.0);
+
+--color2: rgba(31,37,50,1.0);
+
+--color3: rgba(88,92,102,1.0);
+
+--color4: rgba(248,248,248,1.0);
+
+--color5: rgb(255, 241, 242);
+
+--color6: rgba(87,88,208,255);
+
+--color7: rgba(21,126,248,255);
+
+--color8: rgba(32,190,251,255);
+}

@@ -1,0 +1,18 @@
+.Open-positions {
+    background-color: var(--color1);
+    width:100%;
+}
+
+.Open-positions .titulo {
+    color: var(--color4);
+    padding: 4rem 2rem;
+}
+
+.Open-positions .titulo .h2 {
+    font-size: 5rem;
+    margin-top: 2rem;
+}
+
+.texto {
+    margin-top: 2rem;
+}

@@ -1,0 +1,81 @@
+
+.About-Rappi {
+    width: 100%;
+}
+
+.About-Rappi .titulo {
+    width: 100%;
+    background-color: var(--color5);
+    padding: 4rem 2rem;
+}
+.etiqueta {
+    display: flex;
+    align-items: center;
+    font-size: 2rem;
+    font-weight: 100;
+}
+.etiqueta span {
+    font-weight: 900;
+}
+.etiqueta hr {
+    margin: 0 1rem;
+}   
+
+.About-Rappi .titulo h2 {
+    font-size: 5rem;
+    margin-top: 3rem;
+}
+
+.contenido {
+    padding: 4rem 2rem;
+    width: 100%;
+}
+
+.contenido p{
+    color: var(--color2);
+    font-size: 1.4rem;
+}
+
+.botones {
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.botones .btn1 {
+    text-decoration: none;
+    display: block;
+    background-color: var(--color1);
+    color: white;
+    width: 20rem;
+    border-radius: 10rem;
+    padding: 1rem;
+    margin-top: 2rem;
+
+    font-size: 1.8rem;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: -2px -1px 47px -5px rgba(225, 113, 118, 1);
+}
+
+.botones .btn2 {
+    text-decoration: none;
+    display: block;
+    border: 1px solid var(--color1);
+    width: 15rem;
+    border-radius: 10rem;
+    padding: 1rem;
+    margin-top: 2rem;
+    color: var(--color1);
+
+    font-size: 1.8rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
